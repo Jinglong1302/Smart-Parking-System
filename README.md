@@ -6,7 +6,7 @@ This project implements an intelligent parking management system leveraging the 
 The system automates gate control using a servo motor, tracks parking duration, manages capacity in real-time, and provides a dashboard for monitoring occupancy and revenue.
 
 ## 🏗 System Architecture
-![Architecture Diagram](diagrams/architecture_diagram.png)
+![Architecture Diagram](diagrams/architecture_diagram.jpg)
 
 ### Hardware Components
 * **Controller:** ESP32-CAM (AI-Thinker Model)
